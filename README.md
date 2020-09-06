@@ -1,2 +1,2 @@
 # somecode
-something
+Collection of useful code
